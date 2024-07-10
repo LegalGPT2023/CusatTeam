@@ -5,10 +5,8 @@ import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
-import Impact from "./Impact";
-import Team from "./Team";
 import Footer from "./Footer";
-import Testimonials from "./Testimonials";
+import TeamMembers from "./TeamMembers";
 import Hero from "./Hero";
 import Contact from "./Contact";
 
@@ -20,9 +18,8 @@ export {
   Clients,
   CTA,
   Stats,
-  Impact,
   Footer,
-  Testimonials,
+  TeamMembers,
   Hero,
   Team,
   Contact,

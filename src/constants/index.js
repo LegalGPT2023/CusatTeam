@@ -2,6 +2,7 @@ import {
   people01,
   people02,
   people03,
+  people11,
   facebook,
   instagram,
   linkedin,
@@ -21,94 +22,179 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "about-us",
+    title: "About Us",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "our-idea",
+    title: "Our Idea",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "meet-the-team",
+    title: "Meet the Team",
+  },
+  {
+    id: "contact-us",
+    title: "Contact Us",
   },
 ];
 
-export const features = [
+export const functionalities = [
   {
     id: "feature-1",
     icon: star,
-    title: "Mission",
+    title: "AI Conversational Agent for Legal Advice",
     content:
-      "Our mission is to harness the power of AI to revolutionize the legal field. We aim to develop innovative solutions that enhance efficiency, accessibility, and fairness in legal processes. By leveraging cutting-edge technologies, we strive to make legal information and resources more accessible to all.",
+      "Provide legal information and advice to the public, helping them understand their rights and options.",
   },
-  // {
-  //   id: "feature-2",
-  //   icon: shield,
-  //   title: "100% Secured",
-  //   content:
-  //     "We take proactive steps make sure your information and transactions are secure.",
-  // },
+  {
+    id: "feature-2",
+    icon: shield,
+    title: "Similar Case Finding",
+    content:
+      "For legal professionals to find & reference similar cases efficiently, enhancing strategy and decision-making.",
+  },
   {
     id: "feature-3",
     icon: send,
-    title: "Achievements",
+    title: "Automatic Citation Engine for Legal Document Compilation",
     content:
-      " International GenAI Conclave Presentation: Selected to present our project, LegalGPT, at the prestigious International GenAI Conclave. AI-powered Legal Document Processing: Developed LegalGPT, an AI solution that automates legal research, document compilation, and provides accessible legal advice. Our achievements reflect our commitment to excellence and innovation in the field of AI and legal technology.",
+      "Assist legal researchers by automating citations, ensuring accuracy and consistency in legal documents, and streamlining case preparation.",
   },
 ];
 
-export const feedback = [
+export const aboutTeam = [
+  // TODO: EDIT
   {
-    id: "feedback-1",
+    id: "1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Aadhil Muhammad Abou",
     title: "Founder & Leader",
     img: people01,
   },
   {
-    id: "feedback-2",
+    id: "2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+    name: "Abhinand I",
     title: "Founder & Leader",
     img: people02,
   },
   {
-    id: "feedback-3",
+    id: "3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+    name: "Nitish M Satheesh",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "4",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Devika P R",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "5",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Athira K Vasavan",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "6",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "K S Induja Suresh",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "7",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "C B Dev Narayan",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "8",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Mariya Benny",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "9",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Abhin PT",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "10",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Ivine Joju",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "11",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Shubham Kumar",
+    title: "Founder & Leader",
+    img: people11,
+  },
+  {
+    id: "12",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Diksha Srivastav",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "13",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Adithyan R",
     title: "Founder & Leader",
     img: people03,
   },
 ];
 
-export const stats = [
-  {
-    id: "stats-1",
-    title: "User Active",
-    value: "3800+",
-  },
-  {
-    id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
-  },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
-  },
-];
+// export const stats = [
+//   {
+//     id: "stats-1",
+//     title: "User Active",
+//     value: "3800+",
+//   },
+//   {
+//     id: "stats-2",
+//     title: "Trusted by Company",
+//     value: "230+",
+//   },
+//   {
+//     id: "stats-3",
+//     title: "Transaction",
+//     value: "$230M+",
+//   },
+// ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Contact Team",
     links: [
       {
-        name: "Content",
+        name: "Team Member Name",
         link: "https://www.hoobank.com/content/",
       },
       {
@@ -130,10 +216,10 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "-",
     links: [
       {
-        name: "Help Center",
+        name: "Team Member Name",
         link: "https://www.hoobank.com/help-center/",
       },
       {
@@ -155,14 +241,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "CUSAT",
     links: [
       {
-        name: "Our Partner",
+        name: "Visit Website",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "About Our Staff",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
