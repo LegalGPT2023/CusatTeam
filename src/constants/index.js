@@ -1,13 +1,13 @@
 import {
   people01,
   people02,
-  // people03,
   people04,
   people05,
   people06,
   people07,
   people08,
   people09,
+  people10,
   people11,
   facebook,
   instagram,
@@ -20,6 +20,8 @@ import {
   send,
   shield,
   star,
+  people03,
+  people14,
 } from "../assets";
 
 export const navLinks = [
@@ -74,7 +76,7 @@ export const aboutTeam = [
   {
     id: "1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "I am a passionate AI & ML enthusiast. Pursuing MSc. Computer Science with a specialization in AI at CUSAT.",
     name: "Aadhil Muhammad Abou",
     title: "Founder & Leader",
     img: people01,
@@ -82,31 +84,29 @@ export const aboutTeam = [
   {
     id: "2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "I'm passionate about software development and cybersecurity because I believe they have the power to transform the world and make it a better place.",
     name: "Abhinand I",
     title: "Founder & Leader",
     img: people02,
   },
   {
     id: "3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    content: "NONE",
     name: "Nitish M Satheesh",
     title: "Founder & Leader",
-    img: people01,
+    img: people03,
   },
   {
     id: "4",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I am excited to contribute to data-driven decision-making and embrace new challenges in the dynamic field of data analysis.",
     name: "Devika P R",
     title: "Founder & Leader",
     img: people04,
   },
   {
     id: "5",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    content: "NONE",
     name: "Athira K Vasavan",
     title: "Founder & Leader",
     img: people05,
@@ -114,7 +114,7 @@ export const aboutTeam = [
   {
     id: "6",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
     name: "K S Induja Suresh",
     title: "Founder & Leader",
     img: people06,
@@ -122,7 +122,7 @@ export const aboutTeam = [
   {
     id: "7",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Highly motivated MSc student with a strong passion for Artificial Intelligence (AI) and Machine Learning (ML)",
     name: "C B Dev Narayan",
     title: "Founder & Leader",
     img: people07,
@@ -130,7 +130,7 @@ export const aboutTeam = [
   {
     id: "8",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I'm a passionate individual actively looking for opportunities to flaunt my skills in AI and Data Science.",
     name: "Mariya Benny",
     title: "Founder & Leader",
     img: people08,
@@ -138,7 +138,7 @@ export const aboutTeam = [
   {
     id: "9",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "I am a passionate AI & ML enthusiast. Pursuing an Integrated MSc in Computer Science with a specialization in AI & Data Science at CUSAT.",
     name: "Abhin PT",
     title: "Founder & Leader",
     img: people09,
@@ -146,34 +146,32 @@ export const aboutTeam = [
   {
     id: "10",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "As an aspiring web developer passionate about web technologies and their potential impact, I am constantly exploring new horizons.",
     name: "Ivine Joju",
     title: "Founder & Leader",
-    img: people01,
+    img: people10,
   },
   {
     id: "11",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Everything related to Programming and technology interests me, and I want to build my career strategically in the areas of interest.",
     name: "Shubham Kumar",
     title: "Founder & Leader",
     img: people11,
   },
   {
     id: "12",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    content: "NONE",
     name: "Diksha Srivastava",
     title: "Founder & Leader",
-    img: people01,
+    img: people14,
   },
   {
     id: "13",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    content: "NONE",
     name: "Adithyan R",
     title: "Founder & Leader",
-    img: people01,
+    img: people14,
   },
 ];
 

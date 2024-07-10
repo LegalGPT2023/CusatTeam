@@ -20,5 +20,4 @@ const FeedbackCard = ({ content, name, title, img, number }) => (
   </div>
 );
 
-
 export default FeedbackCard;
