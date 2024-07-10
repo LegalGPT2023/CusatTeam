@@ -2,6 +2,7 @@ import {
   people01,
   people02,
   people03,
+  people11,
   facebook,
   instagram,
   linkedin,
@@ -150,7 +151,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Shubham Kumar",
     title: "Founder & Leader",
-    img: people03,
+    img: people11,
   },
   {
     id: "12",
