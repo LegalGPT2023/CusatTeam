@@ -6,46 +6,50 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "about-us",
+    title: "About Us",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "our-idea",
+    title: "Our Idea",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "meet-the-team",
+    title: "Meet the Team",
+  },
+  {
+    id: "contact-us",
+    title: "Contact Us",
   },
 ];
 
-export const features = [
+export const functionalities = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "AI Conversational Agent for Legal Advice",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Provide legal information and advice to the public, helping them understand their rights and options.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Similar Case Finding",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "For legal professionals to find & reference similar cases efficiently, enhancing strategy and decision-making.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Automatic Citation Engine for Legal Document Compilation",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Assist legal researchers by automating citations, ensuring accuracy and consistency in legal documents, and streamlining case preparation.",
   },
 ];
 
-export const feedback = [
+export const aboutTeam = [ // TODO: EDIT
   {
-    id: "feedback-1",
+    id: "1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Herman Jensen",
@@ -53,7 +57,7 @@ export const feedback = [
     img: people01,
   },
   {
-    id: "feedback-2",
+    id: "2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "Steve Mark",
@@ -61,7 +65,7 @@ export const feedback = [
     img: people02,
   },
   {
-    id: "feedback-3",
+    id: "3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Kenn Gallagher",
@@ -70,30 +74,30 @@ export const feedback = [
   },
 ];
 
-export const stats = [
-  {
-    id: "stats-1",
-    title: "User Active",
-    value: "3800+",
-  },
-  {
-    id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
-  },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
-  },
-];
+// export const stats = [
+//   {
+//     id: "stats-1",
+//     title: "User Active",
+//     value: "3800+",
+//   },
+//   {
+//     id: "stats-2",
+//     title: "Trusted by Company",
+//     value: "230+",
+//   },
+//   {
+//     id: "stats-3",
+//     title: "Transaction",
+//     value: "$230M+",
+//   },
+// ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Contact Team",
     links: [
       {
-        name: "Content",
+        name: "Team Member Name",
         link: "https://www.hoobank.com/content/",
       },
       {
@@ -115,10 +119,10 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "-",
     links: [
       {
-        name: "Help Center",
+        name: "Team Member Name",
         link: "https://www.hoobank.com/help-center/",
       },
       {
@@ -140,14 +144,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "CUSAT",
     links: [
       {
-        name: "Our Partner",
+        name: "Visit Website",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "About Our Staff",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
