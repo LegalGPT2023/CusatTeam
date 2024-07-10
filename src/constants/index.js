@@ -1,4 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -47,12 +62,13 @@ export const functionalities = [
   },
 ];
 
-export const aboutTeam = [ // TODO: EDIT
+export const aboutTeam = [
+  // TODO: EDIT
   {
     id: "1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Aadhil Muhammad Abou",
     title: "Founder & Leader",
     img: people01,
   },
@@ -60,7 +76,7 @@ export const aboutTeam = [ // TODO: EDIT
     id: "2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+    name: "Abhinand I",
     title: "Founder & Leader",
     img: people02,
   },
@@ -68,7 +84,87 @@ export const aboutTeam = [ // TODO: EDIT
     id: "3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+    name: "Nitish M Satheesh",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "4",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Devika P R",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "5",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Athira K Vasavan",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "6",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "K S Induja Suresh",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "7",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "C B Dev Narayan",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "8",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Mariya Benny",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "9",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Abhin PT",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "10",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Ivine Joju",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "11",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Shubham Kumar",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "12",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Diksha Srivastav",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "13",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Adithyan R",
     title: "Founder & Leader",
     img: people03,
   },
