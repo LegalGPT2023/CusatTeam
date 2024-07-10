@@ -1,4 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -23,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Mission",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our mission is to harness the power of AI to revolutionize the legal field. We aim to develop innovative solutions that enhance efficiency, accessibility, and fairness in legal processes. By leveraging cutting-edge technologies, we strive to make legal information and resources more accessible to all.",
   },
-  {
-    id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
-    content:
-      "We take proactive steps make sure your information and transactions are secure.",
-  },
+  // {
+  //   id: "feature-2",
+  //   icon: shield,
+  //   title: "100% Secured",
+  //   content:
+  //     "We take proactive steps make sure your information and transactions are secure.",
+  // },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Achievements",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      " International GenAI Conclave Presentation: Selected to present our project, LegalGPT, at the prestigious International GenAI Conclave. AI-powered Legal Document Processing: Developed LegalGPT, an AI solution that automates legal research, document compilation, and provides accessible legal advice. Our achievements reflect our commitment to excellence and innovation in the field of AI and legal technology.",
   },
 ];
 
