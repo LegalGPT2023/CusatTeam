@@ -1,7 +1,13 @@
 import {
   people01,
   people02,
-  people03,
+  // people03,
+  people04,
+  people05,
+  people06,
+  people07,
+  people08,
+  people09,
   people11,
   facebook,
   instagram,
@@ -87,7 +93,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Nitish M Satheesh",
     title: "Founder & Leader",
-    img: people03,
+    img: people01,
   },
   {
     id: "4",
@@ -95,7 +101,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Devika P R",
     title: "Founder & Leader",
-    img: people03,
+    img: people04,
   },
   {
     id: "5",
@@ -103,7 +109,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Athira K Vasavan",
     title: "Founder & Leader",
-    img: people03,
+    img: people05,
   },
   {
     id: "6",
@@ -111,7 +117,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "K S Induja Suresh",
     title: "Founder & Leader",
-    img: people03,
+    img: people06,
   },
   {
     id: "7",
@@ -119,7 +125,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "C B Dev Narayan",
     title: "Founder & Leader",
-    img: people03,
+    img: people07,
   },
   {
     id: "8",
@@ -127,7 +133,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Mariya Benny",
     title: "Founder & Leader",
-    img: people03,
+    img: people08,
   },
   {
     id: "9",
@@ -135,7 +141,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Abhin PT",
     title: "Founder & Leader",
-    img: people03,
+    img: people09,
   },
   {
     id: "10",
@@ -143,7 +149,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Ivine Joju",
     title: "Founder & Leader",
-    img: people03,
+    img: people01,
   },
   {
     id: "11",
@@ -159,7 +165,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Diksha Srivastava",
     title: "Founder & Leader",
-    img: people03,
+    img: people01,
   },
   {
     id: "13",
@@ -167,7 +173,7 @@ export const aboutTeam = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Adithyan R",
     title: "Founder & Leader",
-    img: people03,
+    img: people01,
   },
 ];
 

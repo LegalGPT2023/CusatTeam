@@ -22,7 +22,6 @@ export {
   Footer,
   TeamMembers,
   Hero,
-  Team,
   Contact,
   Impact,
 };

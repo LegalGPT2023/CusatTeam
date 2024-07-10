@@ -10,7 +10,7 @@ import {
   Footer,
   Navbar,
   Stats,
-  Testimonials,
+  // Testimonials,
   Hero,
   TeamMembers,
 } from "./components";
