@@ -78,7 +78,8 @@ export const aboutTeam = [
     content:
       "I am a passionate AI & ML enthusiast. Pursuing MSc. Computer Science with a specialization in AI at CUSAT.",
     name: "Aadhil Muhammad Abou",
-    title: "Founder & Leader",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/aadhil-muhammad-abou",
     img: people01,
   },
   {
@@ -86,14 +87,16 @@ export const aboutTeam = [
     content:
       "I'm passionate about software development and cybersecurity because I believe they have the power to transform the world and make it a better place.",
     name: "Abhinand I",
-    title: "Founder & Leader",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/abhinand-i",
     img: people02,
   },
   {
     id: "3",
-    content: "NONE",
+    content: "I am a passionate AI & ML enthusiast. Pursuing MSc. Computer Science with a specialization in AI at CUSAT.",
     name: "Nitish M Satheesh",
-    title: "Founder & Leader",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/aadhil-muhammad-abou",
     img: people03,
   },
   {
@@ -101,14 +104,16 @@ export const aboutTeam = [
     content:
       "I am excited to contribute to data-driven decision-making and embrace new challenges in the dynamic field of data analysis.",
     name: "Devika P R",
-    title: "Founder & Leader",
+    title: "Student",
+    linkedin: "http://www.linkedin.com/in/devika-p-r-74223322a",
     img: people04,
   },
   {
     id: "5",
-    content: "NONE",
+    content: "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
     name: "Athira K Vasavan",
-    title: "Founder & Leader",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/mariyabenny123/",
     img: people05,
   },
   {
@@ -116,7 +121,8 @@ export const aboutTeam = [
     content:
       "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
     name: "K S Induja Suresh",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "https://www.linkedin.com/in/k-s-induja-suresh",
     img: people06,
   },
   {
@@ -124,7 +130,8 @@ export const aboutTeam = [
     content:
       "Highly motivated MSc student with a strong passion for Artificial Intelligence (AI) and Machine Learning (ML)",
     name: "C B Dev Narayan",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "https://www.linkedin.com/in/c-b-dev-narayan-79b332227",
     img: people07,
   },
   {
@@ -132,7 +139,8 @@ export const aboutTeam = [
     content:
       "I'm a passionate individual actively looking for opportunities to flaunt my skills in AI and Data Science.",
     name: "Mariya Benny",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "",
     img: people08,
   },
   {
@@ -140,7 +148,8 @@ export const aboutTeam = [
     content:
       "I am a passionate AI & ML enthusiast. Pursuing an Integrated MSc in Computer Science with a specialization in AI & Data Science at CUSAT.",
     name: "Abhin PT",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "https://www.linkedin.com/in/abhin-p-t-445463227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     img: people09,
   },
   {
@@ -148,7 +157,8 @@ export const aboutTeam = [
     content:
       "As an aspiring web developer passionate about web technologies and their potential impact, I am constantly exploring new horizons.",
     name: "Ivine Joju",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "",
     img: people10,
   },
   {
@@ -156,21 +166,24 @@ export const aboutTeam = [
     content:
       "Everything related to Programming and technology interests me, and I want to build my career strategically in the areas of interest.",
     name: "Shubham Kumar",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "",
     img: people11,
   },
   {
     id: "12",
-    content: "NONE",
+    content: "As a B.Tech student, I'm passionate about leveraging technology to solve real-world problems. I enjoy exploring various programming languages and frameworks.",
     name: "Diksha Srivastava",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "",
     img: people14,
   },
   {
     id: "13",
-    content: "NONE",
+    content: "I'm deeply fascinated by the world of software development and AI. As a B.Tech student, I'm always eager to learn new technologies and apply them in innovative projects.",
     name: "Adithyan R",
-    title: "Founder & Leader",
+    title: "Student", 
+    linkedin: "",
     img: people14,
   },
 ];
