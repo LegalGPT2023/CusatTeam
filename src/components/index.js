@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import TeamMembers from "./TeamMembers";
 import Hero from "./Hero";
 import Contact from "./Contact";
+import Impact from "./Impact";
 
 export {
   Navbar,
@@ -23,4 +24,5 @@ export {
   Hero,
   Team,
   Contact,
+  Impact,
 };

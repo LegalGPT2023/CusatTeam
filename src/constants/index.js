@@ -157,7 +157,7 @@ export const aboutTeam = [
     id: "12",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Diksha Srivastav",
+    name: "Diksha Srivastava",
     title: "Founder & Leader",
     img: people03,
   },

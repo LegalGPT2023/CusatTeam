@@ -5,11 +5,14 @@ import {
   CardDeal,
   Clients,
   CTA,
+  Impact,
+  Contact,
   Footer,
   Navbar,
   Stats,
   Testimonials,
   Hero,
+  TeamMembers,
 } from "./components";
 
 const App = () => (
@@ -29,11 +32,15 @@ const App = () => (
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Business />
-        <Billing />
-        <CardDeal />
-        <Testimonials />
-        <Clients />
-        <CTA />
+        <Stats />
+        <Impact />
+        {/* <Billing /> */}
+        {/* <CardDeal /> */}
+        {/* <Testimonials /> */}
+        {/* <Clients /> */}
+        {/* <CTA /> */}
+        <TeamMembers />
+        <Contact />
         <Footer />
       </div>
     </div>
