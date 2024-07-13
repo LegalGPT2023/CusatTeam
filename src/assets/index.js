@@ -31,6 +31,8 @@ import people08 from "./people08.png";
 import people09 from "./people09.png";
 import people10 from "./people10.png";
 import people11 from "./people11.png";
+import people12 from "./people12.png";
+import people13 from "./people13.png";
 import people14 from "./people14.png";
 
 export {
@@ -67,5 +69,7 @@ export {
   people09,
   people10,
   people11,
+  people12,
+  people13,
   people14,
 };

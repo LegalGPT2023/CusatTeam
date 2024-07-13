@@ -9,6 +9,8 @@ import {
   people09,
   people10,
   people11,
+  people12,
+  people13,
   facebook,
   instagram,
   linkedin,
@@ -93,7 +95,8 @@ export const aboutTeam = [
   },
   {
     id: "3",
-    content: "I am a passionate AI & ML enthusiast. Pursuing MSc. Computer Science with a specialization in AI at CUSAT.",
+    content:
+      "I am a passionate AI & ML enthusiast. Pursuing MSc. Computer Science with a specialization in AI at CUSAT.",
     name: "Nitish M Satheesh",
     title: "Student",
     linkedin: "https://www.linkedin.com/in/aadhil-muhammad-abou",
@@ -110,7 +113,8 @@ export const aboutTeam = [
   },
   {
     id: "5",
-    content: "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
+    content:
+      "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
     name: "Athira K Vasavan",
     title: "Student",
     linkedin: "https://www.linkedin.com/in/mariyabenny123/",
@@ -121,7 +125,7 @@ export const aboutTeam = [
     content:
       "I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.",
     name: "K S Induja Suresh",
-    title: "Student", 
+    title: "Student",
     linkedin: "https://www.linkedin.com/in/k-s-induja-suresh",
     img: people06,
   },
@@ -130,7 +134,7 @@ export const aboutTeam = [
     content:
       "Highly motivated MSc student with a strong passion for Artificial Intelligence (AI) and Machine Learning (ML)",
     name: "C B Dev Narayan",
-    title: "Student", 
+    title: "Student",
     linkedin: "https://www.linkedin.com/in/c-b-dev-narayan-79b332227",
     img: people07,
   },
@@ -139,8 +143,8 @@ export const aboutTeam = [
     content:
       "I'm a passionate individual actively looking for opportunities to flaunt my skills in AI and Data Science.",
     name: "Mariya Benny",
-    title: "Student", 
-    linkedin: "",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/mariyabenny123/",
     img: people08,
   },
   {
@@ -148,8 +152,9 @@ export const aboutTeam = [
     content:
       "I am a passionate AI & ML enthusiast. Pursuing an Integrated MSc in Computer Science with a specialization in AI & Data Science at CUSAT.",
     name: "Abhin PT",
-    title: "Student", 
-    linkedin: "https://www.linkedin.com/in/abhin-p-t-445463227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    title: "Student",
+    linkedin:
+      "https://www.linkedin.com/in/abhin-p-t-445463227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     img: people09,
   },
   {
@@ -157,8 +162,9 @@ export const aboutTeam = [
     content:
       "As an aspiring web developer passionate about web technologies and their potential impact, I am constantly exploring new horizons.",
     name: "Ivine Joju",
-    title: "Student", 
-    linkedin: "",
+    title: "Student",
+    linkedin:
+      "https://www.linkedin.com/in/ivine-joju-197813224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     img: people10,
   },
   {
@@ -166,25 +172,29 @@ export const aboutTeam = [
     content:
       "Everything related to Programming and technology interests me, and I want to build my career strategically in the areas of interest.",
     name: "Shubham Kumar",
-    title: "Student", 
-    linkedin: "",
+    title: "Student",
+    linkedin: "https://www.linkedin.com/in/shazamsharma/",
     img: people11,
   },
   {
     id: "12",
-    content: "As a B.Tech student, I'm passionate about leveraging technology to solve real-world problems. I enjoy exploring various programming languages and frameworks.",
+    content:
+      "As a B.Tech student, I'm passionate about leveraging technology to solve real-world problems. I enjoy exploring various programming languages and frameworks.",
     name: "Diksha Srivastava",
-    title: "Student", 
-    linkedin: "",
-    img: people14,
+    title: "Student",
+    linkedin:
+      "https://www.linkedin.com/in/diksha-srivastava-063730217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    img: people12,
   },
   {
     id: "13",
-    content: "I'm deeply fascinated by the world of software development and AI. As a B.Tech student, I'm always eager to learn new technologies and apply them in innovative projects.",
+    content:
+      "I'm deeply fascinated by the world of software development and AI. As a B.Tech student, I'm always eager to learn new technologies and apply them in innovative projects.",
     name: "Adithyan R",
-    title: "Student", 
-    linkedin: "",
-    img: people14,
+    title: "Student",
+    linkedin:
+      "https://www.linkedin.com/in/radithyan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    img: people13,
   },
 ];
 
